@@ -1,0 +1,19 @@
+crypto-portfolio-analyzer/
+├── backend/
+│   ├── server.js
+│   ├── routes/
+│   │   ├── portfolioRoutes.js
+│   └── models/
+│       ├── Portfolio.js
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── Dashboard.js
+│   │   │   ├── AddTransaction.js
+│   │   │   └── PortfolioOverview.js
+│   │   ├── App.js
+│   │   ├── index.js
+│   └── package.json
+├── package.json
+└── README.md
